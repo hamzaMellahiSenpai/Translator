@@ -25,7 +25,7 @@ export default {
         {id:2, ab: "ru", name:"russia"},
         {id:3, ab: "ar", name:"Arabic"},
         {id:4, ab: "es", name:"Spanish"},
-        {id:1, ab: "en", name:"Italian"},
+        {id:1, ab: "it", name:"Italian"},
         {id:2, ab: "zh", name:"Chinese"},
         {id:3, ab: "fr", name:"French"},
         {id:4, ab: "de", name:"German"}
